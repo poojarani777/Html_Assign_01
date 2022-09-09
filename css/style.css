@@ -1,0 +1,32 @@
+#container{
+    border:solid black 3px;
+  
+}
+#top {
+    background-color: aqua;
+}
+header{
+    border:solid blue 3px;
+    text-align: center;
+}
+section{
+    border:solid black 3px;
+}
+h2{
+    text-align: center;
+}
+img{
+    width: 350;
+    height: 250;
+
+}
+#name{
+    text-align: center;
+}
+h3{
+    text-align: left;
+}
+footer {
+    text-align: center;
+    background-color: aqua;
+}
